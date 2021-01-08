@@ -1,0 +1,7 @@
+#环境:dev test prod
+spring:
+  profiles:
+    active: @profiles.active@
+
+
+

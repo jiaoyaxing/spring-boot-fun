@@ -1,0 +1,5 @@
+server:
+  port: 80
+
+log:
+  path: /logs/spring-boot-fun
